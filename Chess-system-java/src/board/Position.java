@@ -1,10 +1,10 @@
 package board;
 
-public class position {
+public class Position {
     private int row;
     private int column;
 
-    public position(int column, int row) {
+    public Position(int column, int row) {
         this.column = column;
         this.row = row;
     }
